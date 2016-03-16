@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Petringolo David
-=======
 dario maranta
->>>>>>> 680eaa85d480b8c6d36b99459e23cb6961abe6f9
+vasyl tym....
