@@ -2,7 +2,5 @@ Bershadskyy Yaroslav
 Petringolo David
 dario maranta
 vasyl tym....
-<<<<<<< HEAD
-=======
 marco d'incà
->>>>>>> ac18d03d3901b93cf14c381cb836e04bc4d96619
+Persano Alberto
